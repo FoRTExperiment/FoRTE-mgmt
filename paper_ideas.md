@@ -19,6 +19,7 @@ Potential journals:
   - Recently, early-successional species declining and slowly replaced by mid-successional (maple, oak, pine)
 - Productivity theory vs. observations
   - "Traditional" ecology theory (e.g. Odum) predicts NPP should decline with succession
+	- See figure 3 in [Gough et al. 2016 Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.1375).
   - But many recent observations, from here (Gough, Hardiman) and elsewhere (citations therein) suggest that NPP may be stable through succession in hardwood forests
   - Possible explanation is that higher canopy complexity improves resource (especially light, nitrogen) use efficiency, which stabilizes productivity
   - Part of a bigger-picture trend on biodiversity-productivity relationship in terrestrial ecosystems
@@ -36,6 +37,7 @@ Potential journals:
   - To capture the NPP-composition relationship, models need all of the following:
     - (1) At least cohort-level competition within a patch
     - (2) Canopy radiative transfer scheme that allows some fraction of direct light to penetrate into the understory, and where this is linked to productivity
+	  - (Ben) What about a Nitrogen cycle? Good hypothesis.
 
 ## Methods
 
@@ -61,3 +63,8 @@ Potential journals:
     - Use Istem's model emulator.
   - (3) Calibrate against composition (no flux tower). Run again and validate.
   - (4) Calibrate against both. Run again and validate.
+  
+## Additional notes
+
+- (Ben) Maybe pull CMIP5 data for Great Lakes / UMBS grid cell and look at trajectories over time - could be a discussion figure
+- (Ben) Could also calibrate against UMBS chronosequence data - longer term albeit less precise than flux tower
