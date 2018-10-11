@@ -19,7 +19,7 @@ Potential journals:
   - Recently, early-successional species declining and slowly replaced by mid-successional (maple, oak, pine)
 - Productivity theory vs. observations
   - "Traditional" ecology theory (e.g. Odum) predicts NPP should decline with succession
-	- See figure 3 in [Gough et al. 2016 Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.1375).
+    - See figure 3 in [Gough et al. 2016 Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.1375).
   - But many recent observations, from here (Gough, Hardiman) and elsewhere (citations therein) suggest that NPP may be stable through succession in hardwood forests
   - Possible explanation is that higher canopy complexity improves resource (especially light, nitrogen) use efficiency, which stabilizes productivity
   - Part of a bigger-picture trend on biodiversity-productivity relationship in terrestrial ecosystems
@@ -29,7 +29,7 @@ Potential journals:
   - ...but, these studies do not model long time series, and are not full models of vegetation dynamics and biogeochemical cycling
 - Research questions:
   - Which models (if any) can reproduce trends in productivity from ~1900 to present?
-	- Can models be trained (i.e. parameterized) to fit productivity trends? How realistic are the resulting parameters?
+    - Can models be trained (i.e. parameterized) to fit productivity trends? How realistic are the resulting parameters?
   - Same thing for trends in composition.
   - Does calibrating/assimilating/forcing models to reproduce composition better capture trends in productivity?
   - What are the characteristics of models that can reproduce both?
@@ -37,7 +37,7 @@ Potential journals:
   - To capture the NPP-composition relationship, models need all of the following:
     - (1) At least cohort-level competition within a patch
     - (2) Canopy radiative transfer scheme that allows some fraction of direct light to penetrate into the understory, and where this is linked to productivity
-	  - (Ben) What about a Nitrogen cycle? Good hypothesis.
+      - (Ben) What about a Nitrogen cycle? Good hypothesis.
 
 ## Methods
 
