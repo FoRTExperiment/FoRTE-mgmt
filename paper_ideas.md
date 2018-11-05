@@ -29,6 +29,7 @@ Potential journals:
   - Part of a bigger-picture trend on biodiversity-productivity relationship in terrestrial ecosystems
 - Lots of observational work on composition, but less work on modeling
   - Why model? Allow exploration of mechanisms, and projection into future. Implications for global carbon cycle.
+    - Testing theoretical models of disturbance response mechanisms is important [@foster_2016_integrating]
   - Few studies that _have_ modeled this have shown that canopy complexity can improve productivity 
   - ...but, these studies do not model long time series, and are not full models of vegetation dynamics and biogeochemical cycling
   - [@bond-lamberty_2015_moderate] test whether we can get the response. They found they cannot. Here, we test if the models can even reproduce the state.
@@ -121,4 +122,6 @@ Potential journals:
 - [@bond-lamberty_2015_moderate] -- Radiative transfer is important to capturing resilience to disturbance. Beer's law formulations are insufficient.
   - In ED, increase in light unable to trigger understory light response. Perhaps because canopy is still closed (i.e. no gaps)? What if we tried the finite canopy radius model?
 - Look at physical variables as well where possible -- e.g. canopy light environment, temperature, albedo
+- Nature of the disturbance regime shapes the course of evolution, including in the tropics [@pennington_2015_contrasting]
+- Model uncertainties more important at longer time scales (sampling more important at short time-scales), with mortality as the main driver of model uncertainty [@melo_2018_estimating]
 
