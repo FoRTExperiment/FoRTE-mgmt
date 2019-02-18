@@ -30,8 +30,10 @@ Potential journals:
 - Lots of observational work on composition, but less work on modeling
   - Why model? Allow exploration of mechanisms, and projection into future. Implications for global carbon cycle.
     - Testing theoretical models of disturbance response mechanisms is important [@foster_2016_integrating]
-  - Few studies that _have_ modeled this have shown that canopy complexity can improve productivity 
+    - Investigate consequences of mechanisms across long time scales (e.g. several hundred years) [@halpin_2015_long]
+  - Few studies that _have_ modeled this have shown that canopy complexity can improve productivity
   - ...but, these studies do not model long time series, and are not full models of vegetation dynamics and biogeochemical cycling
+    - One long-term study [@halpin_2015_long] looked at tree growth and found evidence of old-growth stagnation, even under moderate disturbance regimes.
   - [@bond-lamberty_2015_moderate] test whether we can get the response. They found they cannot. Here, we test if the models can even reproduce the state.
 - Research questions:
   - Which models (if any) can reproduce trends in productivity from ~1900 to present?
@@ -98,6 +100,8 @@ Potential journals:
       - Sophisticated 3D canopy RTM?
     - Biome-ESS
       - Individual gap model
+  - Different approach to model selection: Different models with one scheme in common
+      - Two-stream approximation, but separate solution for each canopy layer -- JULES [@mercado_2007_improving], ORCHIDEE-CAN [@naudts_2015_vertically], ED2 [@medvigy_2009_mechanistic], CLM(SPA) [@bonan_2014_modeling]
 - Calibration and parameterization datasets
   - TRY database for parameters
   - Local site surveys
@@ -124,4 +128,6 @@ Potential journals:
 - Look at physical variables as well where possible -- e.g. canopy light environment, temperature, albedo
 - Nature of the disturbance regime shapes the course of evolution, including in the tropics [@pennington_2015_contrasting]
 - Model uncertainties more important at longer time scales (sampling more important at short time-scales), with mortality as the main driver of model uncertainty [@melo_2018_estimating]
-
+- Forests (Yukon spruce forests) resilient to moderate disturbance, based on high survivorship, abundant regeneration, and increased growth of survivors [@campbell_2019_resilience]
+- Structural complexity related to broader ecosystem biodiversity; moderate disturbances can change biodiversity indicators [@versluijs_2019_ecological]
+- Plant structural complexity promotes ground-dwelling mammal functional biodiversity [@sukma_2019_mammal]
